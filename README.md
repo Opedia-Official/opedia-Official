@@ -1,5 +1,5 @@
  [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Hannan Bhuiyan</h1>
+<h1 align="center">Hi 👋, This is Opedia Tech </h1>
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
 <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding" />
@@ -17,13 +17,13 @@
 
 - 📝 I regularly write articles on [http://blog.hannanbhuiyan.com/](http://blog.hannanbhuiyan.com/)
 
-- 📫 How to reach me **hannan.seu@gmail.com**
+- 📫 How to reach me **nahid.muradabir@gmail.com**
 
 - ⚡ Fun fact **I love Programming and Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/hannan.bhuiyan.313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hannan.bhuiyan.313" height="30" width="40" /></a>
+<a href="https://fb.com/NahidMuradAbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nahid Murad Abir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
